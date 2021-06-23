@@ -1,3 +1,4 @@
+// Added New Title
 class Node {
     constructor(value) {
         this.value = value
